@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/alex/Desktop/Technopark/С:С++/ИЗ1",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/Test.dir/unit_test.c.o   -c /Users/alex/Desktop/Technopark/С:С++/ИЗ1/unit_test.c",
+  "file": "/Users/alex/Desktop/Technopark/С:С++/ИЗ1/unit_test.c"
+},
+{
+  "directory": "/Users/alex/Desktop/Technopark/С:С++/ИЗ1",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/DZ1.dir/src/main.c.o   -c /Users/alex/Desktop/Technopark/С:С++/ИЗ1/src/main.c",
+  "file": "/Users/alex/Desktop/Technopark/С:С++/ИЗ1/src/main.c"
+},
+{
+  "directory": "/Users/alex/Desktop/Technopark/С:С++/ИЗ1/src/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/utils.dir/utils.c.o   -c /Users/alex/Desktop/Technopark/С:С++/ИЗ1/src/lib/utils.c",
+  "file": "/Users/alex/Desktop/Technopark/С:С++/ИЗ1/src/lib/utils.c"
+}
+]
